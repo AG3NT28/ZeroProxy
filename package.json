@@ -1,0 +1,22 @@
+{
+  "name": "ZeroProxy",
+  "version": "2.0.0",
+  "description": "Smart Attendance Management System",
+  "private": true,
+  "dependencies": {
+    "chart.js": "^4.4.1",
+    "jsqr": "^1.4.0",
+    "localforage": "^1.10.0",
+    "papaparse": "^5.4.1",
+    "qrcode": "^1.5.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
